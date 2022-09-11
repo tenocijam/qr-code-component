@@ -7,6 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 Coded by Sidharth H.
 
-- Website - [Sidharth H.](https://www.tenocijam.com)
+- Website - [Sidharth H.](https://www.sidharthh.in)
 - Frontend Mentor - [@tenocijam](https://www.frontendmentor.io/profile/tenocijam)
 - Twitter - [@tenocijam](https://www.twitter.com/tenocijam)
+- Instagram - [@tenocijam](https://www.instagram.com/tenocijam)
